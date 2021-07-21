@@ -5,7 +5,7 @@ body:
   - type: markdown
     id: preface
     attributes:
-      value: "感谢您花时间填写此错误报告！"
+      value: "感谢你花时间填写此错误报告！"
   - type: markdown
     id: environment
     attributes:
@@ -40,12 +40,12 @@ body:
   - type: markdown
     id: details
     attributes:
-      value: "# 详细信息"
+      value: "## 详细信息"
   - type: textarea
     id: what-happened
     attributes:
       label: "发生了什么？"
-      description: "最好还告诉我们，您预计会发生什么？"
+      description: "最好还告诉我们，你预计会发生什么。"
     validations:
       required: true
   - type: textarea
@@ -58,4 +58,4 @@ body:
     id: additional-information
     attributes:
       label: "附加信息"
-      description: "如果您还有其他需要提供的信息，可以在这里填写（可以提供截图、视频等）。"
+      description: "如果你还有其他需要提供的信息，可以在这里填写（可以提供截图、视频等）。"
