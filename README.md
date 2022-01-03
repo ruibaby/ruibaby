@@ -2,6 +2,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       1 min           ██████████████░░░░░░░░░░░   55.75 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
