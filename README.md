@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 April 2023 - To: 06 May 2023
+From: 30 April 2023 - To: 07 May 2023
 
-Total Time: 6 hrs 47 mins
+Total Time: 8 hrs 10 mins
 
-MDX            1 hr 47 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.52 %
-HTML           1 hr 45 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.85 %
-YAML           1 hr 1 min      ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
-JavaScript     36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
-Vue.js         34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+HTML             2 hrs 11 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.80 %
+MDX              1 hr 48 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.04 %
+YAML             1 hr 21 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
+JavaScript       52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
+Markdown         40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
 ```
 
 <!--END_SECTION:waka-->
