@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2023 - To: 16 November 2023
+From: 10 November 2023 - To: 17 November 2023
 
-Total Time: 19 hrs 25 mins
+Total Time: 21 hrs 1 min
 
-Vue.js            10 hrs 3 mins   █████████████░░░░░░░░░░░░   51.78 %
-TypeScript        4 hrs 9 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.44 %
-HTML              2 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
-Java              44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-JSON              29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Vue.js            12 hrs 43 mins  ███████████████░░░░░░░░░░   60.48 %
+TypeScript        3 hrs 46 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
+HTML              1 hr 56 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+JSON              40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Java              23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
