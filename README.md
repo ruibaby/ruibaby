@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 December 2024 - To: 26 December 2024
+From: 20 December 2024 - To: 27 December 2024
 
-Total Time: 54 hrs 48 mins
+Total Time: 57 hrs
 
-Dart          37 hrs 29 mins  █████████████████░░░░░░░░   68.40 %
-TypeScript    10 hrs 42 mins  █████░░░░░░░░░░░░░░░░░░░░   19.55 %
-SCSS          1 hr 36 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-JSON          1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-YAML          1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Dart          39 hrs 47 mins  █████████████████▒░░░░░░░   69.79 %
+TypeScript    9 hrs 1 min     ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
+SCSS          2 hrs 48 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+YAML          1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+JSON          1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 ```
 
 <!--END_SECTION:waka-->
