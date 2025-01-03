@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2024 - To: 01 January 2025
+From: 26 December 2024 - To: 02 January 2025
 
-Total Time: 43 hrs 16 mins
+Total Time: 39 hrs 23 mins
 
-Dart              32 hrs 59 mins  ███████████████████░░░░░░   76.25 %
-TypeScript        3 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-SCSS              2 hrs 10 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-Go                1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-YAML              42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Dart              31 hrs 43 mins  ████████████████████░░░░░   80.54 %
+SCSS              1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+TypeScript        1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+Go                1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Other             43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
 ```
 
 <!--END_SECTION:waka-->
