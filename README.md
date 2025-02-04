@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 January 2025 - To: 02 February 2025
+From: 27 January 2025 - To: 03 February 2025
 
-Total Time: 14 hrs 12 mins
+Total Time: 21 hrs 7 mins
 
-Dart          12 hrs 37 mins  ██████████████████████▒░░   88.91 %
-HTML          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Other         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Git Config    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Vue.js        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Dart          19 hrs 33 mins  ███████████████████████░░   92.61 %
+YAML          23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Other         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Vue.js        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Git Config    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
