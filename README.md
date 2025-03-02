@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2025 - To: 28 February 2025
+From: 22 February 2025 - To: 01 March 2025
 
-Total Time: 49 hrs 54 mins
+Total Time: 44 hrs 39 mins
 
-Dart              34 hrs 37 mins  █████████████████▒░░░░░░░   69.35 %
-JSON              2 hrs 50 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-Other             2 hrs 17 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
-Text              2 hrs 9 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-YAML              1 hr 49 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Dart              30 hrs 4 mins   ████████████████▓░░░░░░░░   67.33 %
+JSON              2 hrs 42 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+Other             2 hrs 32 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+Text              2 hrs 2 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+JavaScript        1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
 ```
 
 <!--END_SECTION:waka-->
