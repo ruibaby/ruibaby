@@ -1,5 +1,7 @@
 ## Ryan Wang
 
+[![wakatime](https://wakatime.com/badge/user/6f4ce45f-b03c-4eb3-b701-4b95e0885d94.svg)](https://wakatime.com/@6f4ce45f-b03c-4eb3-b701-4b95e0885d94)
+
 <!--START_SECTION:waka-->
 
 ```txt
