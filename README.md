@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2025 - To: 24 August 2025
+From: 18 August 2025 - To: 25 August 2025
 
-Total Time: 13 hrs 17 mins
+Total Time: 13 hrs 27 mins
 
-TypeScript        5 hrs           █████████▒░░░░░░░░░░░░░░░   37.73 %
-Svelte            1 hr 23 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-Markdown          1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-Java              1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
-JSON              42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+TypeScript        4 hrs 42 mins   ████████▓░░░░░░░░░░░░░░░░   35.00 %
+Svelte            1 hr 23 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
+Markdown          1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
+Java              56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+YAML              49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
 ```
 
 <!--END_SECTION:waka-->
