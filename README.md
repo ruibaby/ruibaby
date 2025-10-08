@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2025 - To: 06 October 2025
+From: 01 October 2025 - To: 08 October 2025
 
-Total Time: 7 hrs 56 mins
+Total Time: 4 hrs 50 mins
 
-Vue.js       3 hrs 1 min     █████████▓░░░░░░░░░░░░░░░   38.11 %
-TypeScript   2 hrs 40 mins   ████████▒░░░░░░░░░░░░░░░░   33.63 %
-YAML         37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
-HTML         29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-Dart         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+Vue.js       1 hr 57 mins    ██████████░░░░░░░░░░░░░░░   40.37 %
+TypeScript   1 hr 20 mins    ███████░░░░░░░░░░░░░░░░░░   27.67 %
+YAML         28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
+HTML         22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+Dart         18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
 ```
 
 <!--END_SECTION:waka-->
