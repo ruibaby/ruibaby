@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 November 2025 - To: 15 November 2025
+From: 09 November 2025 - To: 16 November 2025
 
-Total Time: 36 hrs 6 mins
+Total Time: 35 hrs 18 mins
 
-Svelte            8 hrs 50 mins   ██████░░░░░░░░░░░░░░░░░░░   24.50 %
-TypeScript        7 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.88 %
-Vue.js            7 hrs 12 mins   █████░░░░░░░░░░░░░░░░░░░░   19.95 %
-HTML              2 hrs 51 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-JSON              1 hr 53 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+Svelte            8 hrs 26 mins   ██████░░░░░░░░░░░░░░░░░░░   23.92 %
+TypeScript        7 hrs 37 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.58 %
+Vue.js            7 hrs 26 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.09 %
+HTML              2 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+JSON              1 hr 42 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
 ```
 
 <!--END_SECTION:waka-->
