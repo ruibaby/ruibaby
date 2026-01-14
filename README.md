@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2026 - To: 12 January 2026
+From: 06 January 2026 - To: 13 January 2026
 
-Total Time: 29 hrs 23 mins
+Total Time: 23 hrs 23 mins
 
-Vue.js            7 hrs 16 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.76 %
-HTML              5 hrs 28 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.60 %
-JSON              2 hrs 37 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
-Svelte            2 hrs 37 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
-TypeScript        2 hrs 35 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+Vue.js            6 hrs 52 mins   ███████▒░░░░░░░░░░░░░░░░░   29.38 %
+HTML              5 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.85 %
+Svelte            2 hrs 59 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
+TypeScript        2 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+JSON              2 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
 ```
 
 <!--END_SECTION:waka-->
