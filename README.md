@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 February 2026 - To: 04 March 2026
+From: 26 February 2026 - To: 05 March 2026
 
-Total Time: 18 hrs 25 mins
+Total Time: 19 hrs 30 mins
 
-Vue.js            5 hrs 56 mins         ████████░░░░░░░░░░░░░░░░░   32.21 %
-JSON              2 hrs 52 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
-TypeScript        1 hr 48 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-MDX               1 hr 30 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-JavaScript        1 hr 9 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+Vue.js            5 hrs 28 mins         ███████░░░░░░░░░░░░░░░░░░   28.06 %
+JSON              4 hrs 6 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.08 %
+TypeScript        1 hr 42 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+MDX               1 hr 30 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+YAML              1 hr 27 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
 ```
 
 <!--END_SECTION:waka-->
