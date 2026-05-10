@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 May 2026 - To: 08 May 2026
+From: 02 May 2026 - To: 09 May 2026
 
-Total Time: 34 hrs 47 mins
+Total Time: 39 hrs 46 mins
 
-Vue               9 hrs                 ██████▒░░░░░░░░░░░░░░░░░░   25.90 %
-Java              8 hrs 9 mins          ██████░░░░░░░░░░░░░░░░░░░   23.45 %
-Markdown          5 hrs 51 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.82 %
-TypeScript        2 hrs 41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-HTML              2 hrs 30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+Vue               9 hrs 41 mins         ██████░░░░░░░░░░░░░░░░░░░   24.38 %
+Java              8 hrs 33 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.51 %
+Markdown          6 hrs 26 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
+Other             3 hrs 32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+HTML              3 hrs 28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
 ```
 
 <!--END_SECTION:waka-->
